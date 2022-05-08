@@ -502,7 +502,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/Sperte-s/img/_home.png)
+background: url(https://cdn.jsdelivr.net/gh/Sperte-s/img/home-.webp)
 
 # Footer Background
 footer_bg: "#49b1f5"
@@ -683,7 +683,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/13/2022 00:00:00
+  publish_date: 5/08/2022 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -810,7 +810,7 @@ pangu:
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
-  enable: false
+  enable: true
   field: site # site/post
   placeholder:
   blur: false
@@ -841,7 +841,7 @@ inject:
     #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/static-butterfly/dist/css/index.min.css">
     - <link rel="stylesheet" href="/css/custom.css">
     #- <link rel="stylesheet" href="/css/background.css">
-    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
     - <script src="/live2d-widget/autoload.js"></script>
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:

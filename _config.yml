@@ -5,7 +5,7 @@
 # Site
 title: Timero
 subtitle: ''
-description: '半个脑袋偷走了三分之一个搜索引擎'
+description: '做一个永不沉没的孤岛'
 keywords:
 author: Sperte
 language: zh-CN
@@ -110,7 +110,7 @@ search:
   limit: 10000
 
 aplayer:
-  meting: true
+  meting: false
   asset_inject: false
 
 live2d:
