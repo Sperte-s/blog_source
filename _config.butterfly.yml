@@ -618,7 +618,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 半个脑袋偷走了三分之一个搜索引擎
+    - 做一个永不沉没的孤岛
 
 # Loading Animation (加載動畫)
 preloader: false
@@ -635,7 +635,7 @@ aside:
   archives: true
   card_author:
     enable: true
-    description: 半吊子方面的顶级专家
+    description: 摒弃现实，拥抱幻想
     button:
       enable: false
       icon: fab fa-github
