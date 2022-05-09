@@ -1,0 +1,175 @@
+/*！播放器吸边效果*/
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
+
+/*！背景图渐变效果*/
+#body-wrap {
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(247, 149, 51, 0.1) 0,
+    rgba(243, 112, 85, 0.1) 15%,
+    rgba(239, 78, 123, 0.1) 30%,
+    rgba(161, 102, 171, 0.1) 44%,
+    rgba(80, 115, 184, 0.1) 58%,
+    rgba(16, 152, 173, 0.1) 72%,
+    rgba(7, 179, 155, 0.1) 86%,
+    rgba(109, 186, 130, 0.1) 100%
+  );
+  background: -moz-linear-gradient(
+    0deg,
+    rgba(247, 149, 51, 0.1) 0,
+    rgba(243, 112, 85, 0.1) 15%,
+    rgba(239, 78, 123, 0.1) 30%,
+    rgba(161, 102, 171, 0.1) 44%,
+    rgba(80, 115, 184, 0.1) 58%,
+    rgba(16, 152, 173, 0.1) 72%,
+    rgba(7, 179, 155, 0.1) 86%,
+    rgba(109, 186, 130, 0.1) 100%
+  );
+  background: -o-linear-gradient(
+    0deg,
+    rgba(247, 149, 51, 0.1) 0,
+    rgba(243, 112, 85, 0.1) 15%,
+    rgba(239, 78, 123, 0.1) 30%,
+    rgba(161, 102, 171, 0.1) 44%,
+    rgba(80, 115, 184, 0.1) 58%,
+    rgba(16, 152, 173, 0.1) 72%,
+    rgba(7, 179, 155, 0.1) 86%,
+    rgba(109, 186, 130, 0.1) 100%
+  );
+  background: -ms-linear-gradient(
+    0deg,
+    rgba(247, 149, 51, 0.1) 0,
+    rgba(243, 112, 85, 0.1) 15%,
+    rgba(239, 78, 123, 0.1) 30%,
+    rgba(161, 102, 171, 0.1) 44%,
+    rgba(80, 115, 184, 0.1) 58%,
+    rgba(16, 152, 173, 0.1) 72%,
+    rgba(7, 179, 155, 0.1) 86%,
+    rgba(109, 186, 130, 0.1) 100%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(247, 149, 51, 0.1) 0,
+    rgba(243, 112, 85, 0.1) 15%,
+    rgba(239, 78, 123, 0.1) 30%,
+    rgba(161, 102, 171, 0.1) 44%,
+    rgba(80, 115, 184, 0.1) 58%,
+    rgba(16, 152, 173, 0.1) 72%,
+    rgba(7, 179, 155, 0.1) 86%,
+    rgba(109, 186, 130, 0.1) 100%
+  );
+}
+
+/*！透明度调整*/
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item {
+  background: rgba(255, 255, 255, 0.93);
+}
+/* 首页侧栏卡片 */
+.card-widget {
+  background: rgba(255, 255, 255, 0.93) !important;
+}
+/* 文章页面正文背景 */
+div#post {
+  background: rgba(255, 255, 255, 0.93);
+}
+/* 分页页面 */
+div#page {
+  background: rgba(255, 255, 255, 0.93);
+}
+/* 归档页面 */
+div#archive {
+  background: rgba(255, 255, 255, 0.93);
+}
+/* 标签页面 */
+div#tag {
+  background: rgba(255, 255, 255, 0.93);
+}
+/* 分类页面 */
+div#category {
+  background: rgba(255, 255, 255, 0.93);
+}
+/*页脚透明度调整*/
+#footer {
+  opacity: 0.9;
+}
+/* 页脚透明 */
+#footer {
+  background: transparent !important;
+}
+/* 页脚黑色透明玻璃效果移除 */
+#footer::before {
+  background: transparent !important;
+}
+/* 头图透明 */
+#page-header {
+  background: transparent !important;
+}
+/* 头图遮罩层透明 */
+#page-header::before {
+  background: transparent !important;
+}
+/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+#page-header.post-bg:before {
+  background-color: transparent !important;
+}
+/*夜间模式伪类遮罩层透明*/
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+}
+
+/*！特殊模式调整*/
+/*夜间模式调整*/
+[data-theme="dark"] #aside-content .card-widget {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] #recent-posts > .recent-post-item {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] div#post {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] div#page {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] div#archive {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] div#tag {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+[data-theme="dark"] div#category {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+/*阅读模式*/
+.read-mode #aside-content .card-widget {
+  background: rgba(158, 204, 171, 0.5) !important;
+}
+.read-mode div#post {
+  background: rgba(158, 204, 171, 0.5) !important;
+}
+/*夜间阅读模式*/
+[data-theme="dark"] .read-mode #aside-content .card-widget {
+  background: rgba(0, 0, 0, 0.5) !important;
+  color: #ffffff;
+}
+[data-theme="dark"] .read-mode div#post {
+  background: rgba(0, 0, 0, 0.5) !important;
+  color: #ffffff;
+}
+
+@font-face {
+  font-family: "Timero"; /* 字体名自定义即可 */
+  src: url("/fontsdest/POP设计字体.ttf"); /* 字体文件路径 */
+  font-display: swap;
+}
