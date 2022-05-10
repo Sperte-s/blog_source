@@ -69,31 +69,31 @@
 
 /*！透明度调整*/
 /* 首页文章卡片 */
-#recent-posts > .recent-post-item {
+/*#recent-posts > .recent-post-item {
   background: rgba(255, 255, 255, 0.93);
 }
 /* 首页侧栏卡片 */
-.card-widget {
+/*.card-widget {
   background: rgba(255, 255, 255, 0.93) !important;
 }
 /* 文章页面正文背景 */
-div#post {
+/*div#post {
   background: rgba(255, 255, 255, 0.93);
 }
 /* 分页页面 */
-div#page {
+/*div#page {
   background: rgba(255, 255, 255, 0.93);
 }
 /* 归档页面 */
-div#archive {
+/*div#archive {
   background: rgba(255, 255, 255, 0.93);
 }
 /* 标签页面 */
-div#tag {
+/*div#tag {
   background: rgba(255, 255, 255, 0.93);
 }
 /* 分类页面 */
-div#category {
+/*div#category {
   background: rgba(255, 255, 255, 0.93);
 }
 /*页脚透明度调整*/
@@ -121,7 +121,7 @@ div#category {
   background-color: transparent !important;
 }
 /*夜间模式伪类遮罩层透明*/
-[data-theme="dark"] #footer::before {
+/*[data-theme="dark"] #footer::before {
   background: transparent !important;
 }
 [data-theme="dark"] #page-header::before {
@@ -130,7 +130,7 @@ div#category {
 
 /*！特殊模式调整*/
 /*夜间模式调整*/
-[data-theme="dark"] #aside-content .card-widget {
+/*[data-theme="dark"] #aside-content .card-widget {
   background: rgba(0, 0, 0, 0.88) !important;
 }
 [data-theme="dark"] #recent-posts > .recent-post-item {

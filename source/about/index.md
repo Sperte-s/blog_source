@@ -3,7 +3,7 @@ title: 关于我
 date: 2022-05-04 23:20:29
 type: about
 comments: false
-#top_img: https://cdn.jsdelivr.net/gh/Sperte-s/img/about.png
+#top_img: https://cdn.jsdelivr.net/gh/Sperte-s/img/mian.webp
 aside: false
 ---
 ## 🌸<font color= #4f94e7 >要素</font>
