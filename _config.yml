@@ -113,9 +113,6 @@ aplayer:
   meting: false
   asset_inject: false
 
-live2d:
-  enable: true
-
 # footer_beautify
 # 页脚计时器：[Native JS Timer](https://akilar.top/posts/b941af/)
 # 页脚徽标：[Add Github Badge](https://akilar.top/posts/e87ad7f8/)

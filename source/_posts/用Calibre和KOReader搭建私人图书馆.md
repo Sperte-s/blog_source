@@ -26,7 +26,7 @@ swiper_index: 1
 
 ### Z-Library
 
-> [官网](https://z-lib.org/)
+{% btn https://z-lib.org/,官网 %}
 
 - 大部分书都可以在上面找到
 - 非捐助者每个IP每日可下载5本书
@@ -40,8 +40,8 @@ swiper_index: 1
 
 ### 安装
 
->- [Github](https://github.com/kovidgoyal/calibre/)
->- [官网](https://calibre-ebook.com/)
+{% btn https://github.com/kovidgoyal/calibre/,Github %}
+{% btn https://calibre-ebook.com/,官网 %}
 
 ### 导入
 
@@ -49,7 +49,7 @@ swiper_index: 1
 
 ### 编辑元数据
 
-- 可在[豆瓣读书](https://book.douban.com/)等网站搜索书籍的ISBN码。
+- 可在{% btn https://book.douban.com/,豆瓣读书 %}等网站搜索书籍的ISBN码。
 - 遇个别书籍Calibre下载元数据失败的，可手动输入元数据。
 
 ![编辑元数据1][2]
@@ -62,8 +62,8 @@ swiper_index: 1
 
 ### 下载并安装
 
->- [Github](https://github.com/koreader/koreader/)
->- [官网](https://koreader.rocks/)
+{% btn https://github.com/koreader/koreader/,Github %}
+{% btn https://koreader.rocks/,官网 %}
 
 ### 按自己喜好调整设置
 
