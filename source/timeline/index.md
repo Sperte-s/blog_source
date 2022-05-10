@@ -6,9 +6,6 @@ comments: false
 aside: false
 ---
 {% timeline 2022 %}
-<!-- timeline 05-08 -->
-站点正式上线
-<!-- endtimeline -->
 <!-- timeline 05-07 -->
 基本完成站点美化
 使用github进行网站源码管理
