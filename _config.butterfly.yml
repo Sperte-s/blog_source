@@ -45,7 +45,11 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/Sperte-s/ || Github
+  fa-brands fa-bilibili: https://space.bilibili.com/350930876 || Bilibili
+  fa-brands fa-steam: https://steamcommunity.com/profiles/76561198962807080/ || Steam
   fas fa-envelope: mailto:Sperte_personal@outlook.com || Email
+  fa-solid fa-rss: https://www.timero.xyz/atom.xml || Rss
+
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -187,7 +191,7 @@ anchor: true
 toc:
   post: true
   page: false
-  number: true
+  number: false
   expand: false
   style_simple: true # for post
 
@@ -314,7 +318,7 @@ valine:
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: https://vvw9v3sk.api.lncldglobal.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
-  visitor: false
+  visitor: true
   option:
 
 # waline - A simple comment system with backend support fork from Valine
@@ -421,7 +425,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-7MZD8SMQFE
 
 # CNZZ Analytics
 # https://www.umeng.com/
@@ -675,9 +679,9 @@ aside:
 # busuanzi count for PV / UV in site
 # 訪問人數
 busuanzi:
-  site_uv: true
-  site_pv: true
-  page_pv: true
+  site_uv: false
+  site_pv: false
+  page_pv: false
 
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time

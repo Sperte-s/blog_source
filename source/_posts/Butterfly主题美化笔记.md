@@ -20,7 +20,7 @@ cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/建站历程.webp
 
 ------------------
 
-## 自定义CSS
+## Ⅰ.自定义CSS
 
 在`[博客根目录]/themes/butterfly/source/css/`处新建`custom.css`文件
 
@@ -149,7 +149,7 @@ cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/建站历程.webp
 
 ------------------
 
-## 插件安装
+## Ⅱ.插件安装
 
 ### Aplayer全局播放器
 
@@ -401,7 +401,7 @@ cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/建站历程.webp
 
 ------------------
 
-{% folding blue, 文章参考 %}
+{% folding red, 文章参考 %}
 [主题美化日记 | 糖果屋](https://akilar.top/posts/f99b208/)
 [Hexo博客之butterfly主题优雅更换背景 | 小康博客](https://www.antmoe.com/posts/7198453/)
 {% endfolding %}

@@ -5,10 +5,10 @@ type: messageboard
 aside: false
 ---
 
-## <div align="center"> 有什么想说的？ </font>
+## <center> 有什么想说的？</center>
 
-## <div align="center"> 有什么想问的？ </font>
+## <center> 有什么想问的？</center>
 
-## <div align="center"> 有什么想吐槽的？ </font>
+## <center> 有什么想吐槽的？</center>
 
-## <div align="center"> 可以在下面留言... </font>
+## <center> 可以在下面留言...</center>

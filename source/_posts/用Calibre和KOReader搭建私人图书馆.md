@@ -3,7 +3,7 @@ title: 用Calibre和KOReader搭建私人图书馆
 tags: 教程
 categories: 经验
 description: '多读书，多看报，少吃零食，多睡觉'
-cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/C40C00
+cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/图书馆.webp
 abbrlink: 15939
 date: 2022-05-03 20:39:12
 swiper_index: 5
