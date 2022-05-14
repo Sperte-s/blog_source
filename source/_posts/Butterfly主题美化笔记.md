@@ -401,7 +401,7 @@ cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/建站历程.webp
 
 ------------------
 
-{% folding red, 文章参考 %}
+{% hideToggle 文章参考,#A4D8FA%}
 [主题美化日记 | 糖果屋](https://akilar.top/posts/f99b208/)
 [Hexo博客之butterfly主题优雅更换背景 | 小康博客](https://www.antmoe.com/posts/7198453/)
-{% endfolding %}
+{% endhideToggle %}

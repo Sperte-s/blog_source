@@ -8,15 +8,15 @@ aside: false
 
 ## 🌸<font color= #4f94e7 >要素</font>
 
-- <font color= #fa9e4c >一句话描述：</font>爱幻想，胆小怕事，未脱离低级趣味的人
+<font color= #fa9e4c >一句话描述：</font>爱幻想，胆小怕事，未脱离低级趣味的人
 
-- <font color= #fa9e4c >生日：</font>2004/12/29
+<font color= #fa9e4c >生日：</font>2004/12/29
 
-- <font color= #fa9e4c >特征：</font>记忆力差，半个脑袋，喜欢发呆与幻想
+<font color= #fa9e4c >特征：</font>记忆力差，半个脑袋，喜欢发呆与幻想
 
-- <font color= #fa9e4c >梦想：</font>改变世界
+<font color= #fa9e4c >梦想：</font>改变世界
 
-- <font color= #fa9e4c >爱好：</font>幻想，二次元，创造，游戏
+<font color= #fa9e4c >爱好：</font>幻想，二次元，创造，游戏
 
 ------------------------
 
