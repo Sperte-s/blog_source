@@ -3,7 +3,7 @@ title: 用Calibre和KOReader搭建私人图书馆
 tags: 教程
 categories: 经验
 description: '多读书，多看报，少吃零食，多睡觉'
-cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/图书馆.webp
+cover: https://npm.elemecdn.com/sperte-img/picgo/图书馆.webp
 abbrlink: 15939
 date: 2022-05-03 20:39:12
 swiper_index: 5
@@ -107,14 +107,14 @@ swiper_index: 5
 
 ---------------
 
-  [1]: https://cdn.jsdelivr.net/gh/Sperte-s/img/50Oez1
-  [2]: https://cdn.jsdelivr.net/gh/Sperte-s/img/jrrfv9
-  [3]: https://cdn.jsdelivr.net/gh/Sperte-s/img/0mXHuP
-  [4]: https://cdn.jsdelivr.net/gh/Sperte-s/img/DGOWr9
-  [5]: https://cdn.jsdelivr.net/gh/Sperte-s/img/4GarPS
-  [6]: https://cdn.jsdelivr.net/gh/Sperte-s/img/nDenPC
-  [7]: https://cdn.jsdelivr.net/gh/Sperte-s/img/nzHGqP
-  [8]: https://cdn.jsdelivr.net/gh/Sperte-s/img/TCWHeT
-  [9]: https://cdn.jsdelivr.net/gh/Sperte-s/img/bfjTSS
-  [10]: https://cdn.jsdelivr.net/gh/Sperte-s/img/8GazL4
+  [1]: https://npm.elemecdn.com/sperte-img/picgo/50Oez1.webp
+  [2]: https://npm.elemecdn.com/sperte-img/picgo/jrrfv9.webp
+  [3]: https://npm.elemecdn.com/sperte-img/picgo/0mXHuP.webp
+  [4]: https://npm.elemecdn.com/sperte-img/picgo/DGOWr9.webp
+  [5]: https://npm.elemecdn.com/sperte-img/picgo/4GarPS.webp
+  [6]: https://npm.elemecdn.com/sperte-img/picgo/nDenPC.webp
+  [7]: https://npm.elemecdn.com/sperte-img/picgo/nzHGqP.webp
+  [8]: https://npm.elemecdn.com/sperte-img/picgo/TCWHeT.webp
+  [9]: https://npm.elemecdn.com/sperte-img/picgo/bfjTSS.webp
+  [10]: https://npm.elemecdn.com/sperte-img/picgo/8GazL4.webp
   

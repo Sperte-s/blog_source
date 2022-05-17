@@ -6,6 +6,10 @@ comments: false
 aside: false
 ---
 {% timeline 2022 %}
+<!-- timeline 05-17 -->
+统一图片格式为webp
+更换npm为网站静态资源加速
+<!-- endtimeline -->
 <!-- timeline 05-07 -->
 基本完成站点美化
 使用github进行网站源码管理

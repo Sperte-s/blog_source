@@ -89,24 +89,24 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/Sperte-s/img/icon.png
+favicon: https://npm.elemecdn.com/sperte-img/picgo/icon.webp
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/Sperte-s/img/avatar.png
+  img: https://npm.elemecdn.com/sperte-img/picgo/avatar.webp
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: #https://cdn.jsdelivr.net/gh/Sperte-s/img/home.png
+index_img: #https://npm.elemecdn.com/sperte-img/picgo/home.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: rgba(255, 255, 255, 0)
 
 # The banner image of archive page
-archive_img: #https://cdn.jsdelivr.net/gh/Sperte-s/img/timeline.png
+archive_img: #https://npm.elemecdn.com/sperte-img/picgo/timeline.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
@@ -505,7 +505,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://cdn.jsdelivr.net/gh/Sperte-s/img/mian.webp)
+background: url(https://npm.elemecdn.com/sperte-img/picgo/mian.webp)
 
 # Footer Background
 footer_bg: "#49b1f5"
@@ -842,10 +842,10 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/static-butterfly/dist/css/index.min.css">
+    #- <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/static-butterfly/dist/css/index.min.css">
     - <link rel="stylesheet" href="/css/custom.css">
     #- <link rel="stylesheet" href="/css/background.css">
-    #- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    #- <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/font-awesome/css/font-awesome.min.css">
     - <script defer src="/live2d-widget/autoload.js"></script>
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:

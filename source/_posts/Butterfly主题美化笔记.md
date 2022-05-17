@@ -8,7 +8,7 @@ tags:
 categories: 经验
 description: '记录主题的魔改历程'
 swiper_index: 4
-cover: https://cdn.jsdelivr.net/gh/Sperte-s/img/建站历程.webp
+cover: https://npm.elemecdn.com/sperte-img/picgo/建站历程.webp
 ---
 ## 前言
 
