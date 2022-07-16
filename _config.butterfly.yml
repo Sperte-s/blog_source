@@ -370,8 +370,8 @@ giscus:
 # Remark42
 # https://remark42.com/docs/configuration/frontend/
 remark42:
-    host: # Your Host URL
-    siteId: # Your Site ID
+  host: # Your Host URL
+  siteId: # Your Site ID
   option:
 # Chat Services
 # --------------------------------------
