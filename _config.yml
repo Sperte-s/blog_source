@@ -130,8 +130,8 @@ footer_beautify:
     name: footer-wrap
     index: 0
   # 计时器部分配置项
-  runtime_js: https://npm.elemecdn.com/sperte-static_resources@1.0.3/js/runtime.js
-  runtime_css: https://npm.elemecdn.com/sperte-static_resources/css/runtime.css
+  runtime_js: https://unpkg.com/sperte-static_resources/js/runtime.js
+  runtime_css: https://unpkg.com/sperte-static_resources/css/runtime.css
   # 徽标部分配置项
   swiperpara: 4 #若非0，则开启轮播功能，每行徽标个数
   bdageitem:

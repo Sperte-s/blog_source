@@ -298,7 +298,7 @@ cover: https://npm.elemecdn.com/sperte-img/picgo/建站历程.webp
 
 ### 添加gitcalendar模块
 
-1. 安装`butterfly-clock`插件
+1. 安装`gitcalendar`插件
 
     ```bash
     npm install hexo-filter-gitcalendar --save
