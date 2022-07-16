@@ -137,10 +137,10 @@ footer_beautify:
   bdageitem:
     - link: https://hexo.io/ #徽标指向网站链接
       shields: https://img.shields.io/badge/Frame-Hexo-blue?style=flat-square&logo=hexo #徽标API
-      message: 本站博客框架为Hexo_v6.1.0 #徽标提示语
+      message: 本站博客框架为Hexo_v6.2.0 #徽标提示语
     - link: https://github.com/jerryc127/hexo-theme-butterfly
       shields: https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat-square&logo=bitdefender
-      message: 本站博客主题为Butterfly_v4.2.0
+      message: 本站博客主题为Butterfly_v4.3.1
     - link: https://www.npmjs.com/
       shields: https://img.shields.io/badge/CDN-NPM-red?style=flat-square&logo=npm
       message: 本站使用NPM为静态资源提供CDN加速
