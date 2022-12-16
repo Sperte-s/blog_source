@@ -7,8 +7,8 @@ date: '2022-12-16 18:07:11'
 description: 高效迁移Discuz3.4,，不使用官方的备份功能。
 tags:
 - 教程
-title: 迁移Discuz3.4（宝塔面板）
-updated: '2022-12-16 19:06:49'
+title: Discuz3.4迁移教程（宝塔面板）
+updated: '2022-12-16 22:34:54'
 ---
 ## 前言
 
