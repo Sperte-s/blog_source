@@ -53,7 +53,7 @@ aside: false
 
 ### <font color= #fa9e4c >Timero</font>
 
-{% btn https://www.timero.xyz/,链接 %}
+{% btn https://blog.timero.xyz/,链接 %}
 
 - 个人博客
 - 基于HEXO
