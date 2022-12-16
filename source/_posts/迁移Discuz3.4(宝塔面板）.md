@@ -1,12 +1,14 @@
 ---
 abbrlink: '31467'
-categories: []
+categories:
+- - 经验
 cover: https://img.timero.xyz/i/2022/12/16/639c4e3525b78.webp
 date: '2022-12-16 18:07:11'
 description: 高效迁移Discuz3.4,，不使用官方的备份功能。
-tags: []
+tags:
+- 教程
 title: 迁移Discuz3.4（宝塔面板）
-updated: '2022-12-16 18:55:04'
+updated: '2022-12-16 19:06:49'
 ---
 ## 前言
 
