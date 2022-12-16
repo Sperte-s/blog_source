@@ -171,6 +171,6 @@
 
 @font-face {
   font-family: "Timero"; /* 字体名自定义即可 */
-  src: url("https://npm.elemecdn.com/sperte-static_resources@1.0.3003/fonts/POP.ttf"); /* 字体文件路径 */
+  src: url("https://unpkg.com/sperte-static_resources/fonts/POP.ttf"); /* 字体文件路径 */
   font-display: swap;
 }
