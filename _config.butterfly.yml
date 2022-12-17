@@ -511,7 +511,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://npm.elemecdn.com/sperte-img/picgo/mian.webp)
+background: url(https://img.timero.xyz/i/2022/12/17/639dc1a896a07.webp)
 
 # Footer Background
 footer_bg: "#49b1f5"
